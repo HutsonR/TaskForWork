@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032047795581",
+    "project_id": "work-64878",
+    "storage_bucket": "work-64878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032047795581:android:5dbec095f598d9c7898014",
+        "android_client_info": {
+          "package_name": "com.example.taskforwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vunm0n9MxBypxtwXyqgworK2bLiv_S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

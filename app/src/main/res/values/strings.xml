@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1</string>
+
+    <string name="game_amount">Points:</string>
+    <string name="game_free_money">Get free money</string>
+    <string name="game_text_bet">Your points:</string>
+    <string-array name="game_horse_names">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="game_select_horse">Choose a horse:</string>
+    <string name="game_select_horse_prompt">horse</string>
+</resources>
